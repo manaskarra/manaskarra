@@ -14,18 +14,14 @@
 
 ---
 
-## ─── 🚀 About Me ───
-
 **Hey there, I'm Manas!**  
-An AI enthusiast with a deep passion for **LLMs, AI agents, and intelligent systems**.  
-I’ve worked on a range of projects, from **personal experiments** to **full-scale ML/DL applications**, using:  
+An AI enthusiast with a deep passion for **LLMs, AI agents, and intelligent systems**. I’ve worked on a range of projects, from **personal experiments** to **full-scale ML/DL applications**, using:  
 
 - **Languages:** Python, JavaScript, MySQL  
 - **Frameworks:** Hugging Face, LangChain, TensorFlow  
 
-Currently, I’m focused on **building and deploying scalable AI agents** that go beyond cool demos and solve **real-world problems**.  
-Always learning. Always experimenting.  
+Currently, I’m focused on **building and deploying scalable AI agents** that go beyond cool demos and solve **real-world problems**.  Always learning. Always experimenting!
 
-**Beyond AI**, you'll probably find me **producing music or designing sounds**.  
+When I'm not coding, you'll probably find me **producing music or designing sounds**. 🙃   
 
 ---
