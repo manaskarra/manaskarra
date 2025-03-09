@@ -13,7 +13,7 @@
 I consider myself an AI enthusiast with a deep passion for LLMs and AI-related developments. I have worked on everything from personal experiments to full-scale ML/DL applications, using mainly Python, JavaScript, and MySQL with frameworks like Hugging Face, LangChain, TensorFlow and more...
 
 Currently, I’m focused on **building and deploying scalable AI agents** that go beyond cool demos and create real-world impact.  
-When I'm not coding, you'll probably find me **producing music or tweaking synths**. 🙃   
+When I'm not coding, you'll probably find me making beats or tweaking synths. 🙃   
 
 You can reach out to me at manas.karra@gmail.com or my socials below :)
 <p align="center">
