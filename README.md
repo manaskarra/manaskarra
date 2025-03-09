@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00c3ff&center=true&vCenter=true&width=450&lines=Manas+Karra" />
-</h1>
-<h4 align="center"> Applied AI Engineer at Deriv </h4>
-<h4 align="center"> Part-time Audio Nerd </h4>
-
+<h3 align="center"> 🚀 Applied AI Engineer at Deriv | 🎛️ Part-time Audio Nerd </h3>
+  
 <hr style="border: 1px solid #00c3ff; width: 50%;" />
 
 <p align="center">
