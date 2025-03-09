@@ -16,6 +16,7 @@ Currently, I’m focused on **building and deploying scalable AI agents** that g
 
 When I'm not coding, you'll probably find me **producing music or tweaking synths**. 🙃   
 
+You can reach out to me at manas.karra@gmail.com or my socials below :)
 <p align="center">
   <a href="https://linkedin.com/in/manas-karra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
