@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00c3ff&center=true&vCenter=true&width=450&lines=Manas+Karra;AI+Engineer+%7C+Music+Producer;LLMs+%7C+AI+Agents+%7C+Sound+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00c3ff&center=true&vCenter=true&width=450&lines=Manas+Karra" />
 </h1>
 <h4 align="center"> Applied AI Engineer at Deriv | Part-time Audio Nerd 👨‍💻🎛️ </h4> 
 
