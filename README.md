@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Manas 👋</h1>
+<h1 align="center">Hey there, I'm Manas K 👋</h1>
 <h3 align="center"> Applied AI Engineer @ Deriv | AI Enthusiast </h3>
 
 <p align="center">
