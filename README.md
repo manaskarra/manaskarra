@@ -2,7 +2,7 @@
 <h4 align="center"> Applied AI Engineer at Deriv </h4>
 
 <p align="center">
-  <img src="![1732271587_The-Prompt-GIF-Instagram-co-founder-backs-startup-helping-devs-fend-off-AI-1200x640-1](https://github.com/user-attachments/assets/03870c0a-4f74-4dbb-9a5a-cc3ba317f32a)" width="500" />
+  <img src="1732271587_The-Prompt-GIF-Instagram-co-founder-backs-startup-helping-devs-fend-off-AI-1200x640-1.gif" width="500" />
 </p>
 
 ---
