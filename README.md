@@ -6,10 +6,6 @@
 <b> Applied AI Engineer at Deriv | Part-time Audio Nerd 👨‍💻🎛 </b> 
 </div>
   
-<p align="center">
-  <img src="1732271587_The-Prompt-GIF-Instagram-co-founder-backs-startup-helping-devs-fend-off-AI-1200x640-1.gif" width="500" style="border-radius: 10px; border: 2px solid #00c3ff;" />
-</p>
-
 ---
 
 **Hey there, I'm Manas!**
@@ -30,5 +26,9 @@ When I'm not coding, you'll probably find me **producing music or tweaking synth
   <a href="https://www.youtube.com/@sledg3r" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="1732271587_The-Prompt-GIF-Instagram-co-founder-backs-startup-helping-devs-fend-off-AI-1200x640-1.gif" width="500" style="border-radius: 10px; border: 2px solid #00c3ff;" />
 </p>
 
