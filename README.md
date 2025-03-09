@@ -20,7 +20,7 @@ When I'm not coding, you'll probably find me **producing music or tweaking synth
   <a href="https://linkedin.com/in/manas-karra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-    <a href="https://www.instagram.com/sledg3r" target="_blank">
+  <a href="https://www.instagram.com/sledg3r" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@sledg3r" target="_blank">
@@ -29,6 +29,5 @@ When I'm not coding, you'll probably find me **producing music or tweaking synth
 </p>
 
 <p align="center">
-  <img src="1732271587_The-Prompt-GIF-Instagram-co-founder-backs-startup-helping-devs-fend-off-AI-1200x640-1.gif" width="500" style="border-radius: 10px; border: 2px solid #00c3ff;" />
+  <img src="1732271587_The-Prompt-GIF-Instagram-co-founder-backs-startup-helping-devs-fend-off-AI-1200x640-1.gif" width="400" style="border-radius: 10px; border: 2px solid #00c3ff;" />
 </p>
-
