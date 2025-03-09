@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center" style="font-size: 18px; font-weight: bold;">
-  👨‍💻 Applied AI Engineer at Deriv | 🎛️ Part-time Audio Nerd
+<b> 👨‍💻 Applied AI Engineer at Deriv | 🎛️ Part-time Audio Nerd </b>
 </div>
   
 <hr style="border: 1px solid #00c3ff; width: 50%;" />
