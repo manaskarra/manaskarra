@@ -17,14 +17,17 @@ Currently, I’m focused on **building and deploying scalable AI agents** that g
 When I'm not coding, you'll probably find me **producing music or tweaking synths**. 🙃   
 
 <p align="center">
+  <a href="mailto:manas.karra@gmail.com">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/manas-karra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sledg3r" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@sledg3r" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
