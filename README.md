@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00c3ff&center=true&vCenter=true&width=450&lines=Manas+Karra" />
 </h1>
 
-<h4 align="center">
+<h3 align="center">
 <b> 👨‍💻  Applied AI Engineer | Part-time Audio Nerd </b> 🎛  
-</h4>
+</h3>
   
 ---
 
