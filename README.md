@@ -1,5 +1,5 @@
-<h1 align="center"> Manas </h1>
-<h4 align="center"> Applied AI Engineer at Deriv </h4>
+<h1 align="center"> Manas Karra </h1>
+<h4 align="center"> Applied AI Engineer at Deriv | Part-time Audio Nerd </h4>
 
 <p align="center">
   <img src="1732271587_The-Prompt-GIF-Instagram-co-founder-backs-startup-helping-devs-fend-off-AI-1200x640-1.gif" width="500" />
