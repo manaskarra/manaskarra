@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00c3ff&center=true&vCenter=true&width=450&lines=Manas+Karra" />
 </h1>
 
-<div align="center" style="font-size: 18px; font-weight: bold;">
+<h4 align="center">
 <b> Applied AI Engineer at Deriv | Part-time Audio Nerd 👨‍💻🎛 </b> 
-</div>
+</h4>
   
 ---
 
