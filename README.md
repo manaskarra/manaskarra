@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-<b> 👨‍💻  Applied AI Engineer | Part-time Audio Nerd </b> 🎛  
+<b> 👨‍💻  Applied AI Engineer </b> 
 </h3>
   
 ---
